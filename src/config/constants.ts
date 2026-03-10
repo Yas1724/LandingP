@@ -1,14 +1,15 @@
-export const services = [
+ export const services = [
   {
-    title: "Innovative Web Solutions",
+    title: "Full-Stack Development",
     description:
-      "Transforming your ideas into captivating websites using powerful technologies.",
+      "Building web applications across both frontend and backend. Focused on making things functional, maintainable, and practical.",
     icon: "/images/webdev.webp",
   },
   {
-    title: "Mobile App Redefined",
+    title: "API & System Development",
     description:
-      "Crafting immersive mobile apps that come to life with the magic of Flutter & React Native.",
+      "Building structured APIs and small-scale systems, focusing on reliable data flow, modular architecture, and practical implementation.",
     icon: "/images/appdev.webp",
   },
 ];
+ 

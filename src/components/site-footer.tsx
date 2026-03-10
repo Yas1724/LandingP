@@ -11,7 +11,7 @@ export const SiteFooter = component$(() => (
       rel="noopener noreferrer"
       class="underline-offset-4 duration-300 hover:text-foreground hover:underline"
     >
-      rajput-hemant@github
+      yashrajSingh
     </a>
   </footer>
 ));

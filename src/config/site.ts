@@ -1,47 +1,47 @@
-import { Github, LinkedIn, StackOverFlow, Twitter } from "~/components/icons";
+import { Github, LinkedIn, LeetCode, Twitter } from "~/components/icons";
 
 export const siteConfig = {
-  name: "Hemant Rajput | Software Developer",
+  name: "Yashraj Singh | Software Developer",
   description:
-    "Hemant Rajput is a Software Developer who is passionate about building solutions and contributing to open source communities",
-  url: "https://rajputhemant.dev",
+    "Yashraj Singh is a Software Developer focused on backend development, with an interest in system behavior, implementation details, and writing clear, maintainable code.",
+  url: "yashrajsingh.me",
 
   author: {
-    name: "Hemant Rajput",
+    name: "Yashraj Singh",
     avatar: "/images/avatar.png",
     bio: "Software Developer",
-    mail: "rajput.hemant2001@gmail.com",
+    mail: "yaz1256715@gmail.com",
     description:
-      "Frontend developer skilled in JavaScript, passionate about crafting pixel-perfect, scalable web apps and eager to gain hands-on experience through collaboration.",
-    location: "Mathura, India",
-    pronouns: "bat/man",
+      "Software Developer focused on backend development, with an interest in system behavior, and writing clear, maintainable code.",
+    location: "Bbsr, India",
+    pronouns: "dev/tty",
     resume:
-      "https://docs.google.com/document/d/1KZvtS-e1E0qXDOTl0sJEbPJx6sBF3NBXkhhKzbStVGc",
+      "https://drive.google.com/file/d/1YrYvJCvDpCk5bKvFycvmVYiXZUgEoLPC/view?usp=drive_link",
   },
 
   links: {
     github: {
       title: "Github",
-      href: "https://github.com/rajput-hemant",
+      href: "https://github.com/Yas1724",
       icon: Github,
     },
 
     linkedin: {
       title: "Linkedin",
-      href: "https://www.linkedin.com/in/rajput-hemant",
+      href: "https://www.linkedin.com/in/yashraj-singh-00a5a52ab",
       icon: LinkedIn,
     },
 
     twitter: {
       title: "Twitter",
-      href: "https://twitter.com/rajput_hemant01",
+      href: "https://x.com/yaz2098751",
       icon: Twitter,
     },
 
-    stackoverflow: {
-      title: "Stackoverflow",
-      href: "https://stackoverflow.com/users/20652038/rajput-hemant",
-      icon: StackOverFlow,
+    LeetCode: {
+      title: "LeetCode",
+      href: "https://leetcode.com/u/_ya_z/",
+      icon: LeetCode,
     },
   },
 };

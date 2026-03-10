@@ -41,19 +41,19 @@ export default component$(() => {
         </div>
 
         <div class="flex flex-col items-center justify-center space-y-3">
-          <h1 class="text-2xl font-medium">
+          <h1 class="text-2xl font-semibold tracking-tight">
             {siteConfig.author.name}
             <Verified size={20} class="ml-2 inline-flex" />
           </h1>
 
-          <p class="text-sm text-muted-foreground brightness-110">
+          <p class="text-sm text-foreground/60 brightness-125">
             <MapPin size={14} class="mb-1 mr-1 inline-flex" />
             {siteConfig.author.location}{" "}
             <span class="text-muted-foreground/50">•</span>{" "}
             {siteConfig.author.pronouns}
           </p>
 
-          <p class="mx-1 text-center leading-relaxed text-muted-foreground">
+          <p class="mx-1 text-center leading-relaxed text-foreground/75">
             {siteConfig.author.description}
           </p>
         </div>
@@ -136,7 +136,7 @@ export default component$(() => {
             <div
               key={i}
               style={{ backgroundImage: "url('/images/bg-gradient-1.svg')" }}
-              class="overflow-hidden rounded-xl border bg-background bg-contain bg-right bg-no-repeat shadow-sm transition-shadow duration-300 hover:shadow dark:bg-secondary"
+              class="overflow-hidden rounded-xl border bg-background bg-[length:50%_100%] bg-right bg-no-repeat shadow-sm transition-shadow duration-300 hover:shadow dark:bg-secondary"
             >
               <div class="grid grid-flow-col items-center justify-between gap-x-6 px-3 py-5 dark:backdrop-blur-[2px] md:px-6">
                 <img
