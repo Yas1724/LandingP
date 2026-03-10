@@ -58,12 +58,6 @@ src/
 public/             # Static assets
 ```
 
-## Connect
-
-- GitHub — [Yas1724](https://github.com/Yas1724)
-- LinkedIn — [yashraj-singh](https://www.linkedin.com/in/yashraj-singh-00a5a52ab)
-- LeetCode — [_ya_z](https://leetcode.com/u/_ya_z/)
-- Email — yaz1256715@gmail.com
 
 ---
 
