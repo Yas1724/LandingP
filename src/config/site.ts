@@ -1,7 +1,7 @@
 import { Github, LinkedIn, LeetCode, Twitter } from "~/components/icons";
 
 export const siteConfig = {
-  name: "Yashraj Singh | Software Developer",
+  name: "Yashraj Singh | Engineering Student",
   description:
     "Yashraj Singh is a Software Developer focused on backend development, with an interest in system behavior, implementation details, and writing clear, maintainable code.",
   url: "yashrajsingh.me",
@@ -12,7 +12,7 @@ export const siteConfig = {
     bio: "Software Developer",
     mail: "yaz1256715@gmail.com",
     description:
-      "Software Developer focused on backend development, with an interest in system behavior, and writing clear, maintainable code.",
+      "Engineering Student focused on backend development, with an interest in system behavior, and writing clear, maintainable code.",
     location: "Bbsr, India",
     pronouns: "dev/tty",
     resume:
