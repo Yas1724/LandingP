@@ -4,7 +4,7 @@ export const siteConfig = {
   name: "Yashraj Singh | Engineering Student",
   description:
     "Yashraj Singh is a Software Developer focused on backend development, with an interest in system behavior, implementation details, and writing clear, maintainable code.",
-  url: "yashrajsingh.me",
+  url: "https://yashrajsingh.me",
 
   author: {
     name: "Yashraj Singh",
