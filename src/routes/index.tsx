@@ -86,7 +86,7 @@ export default component$(() => {
         <div class="flex flex-col items-center justify-center gap-3 py-3 md:flex-row">
           <a
             title="Website & Portfolio"
-            href={siteConfig.url}
+            href="https://www.yashrajsingh.me/"
             target="_blank"
             rel="noopener noreferrer"
             class={cn(
