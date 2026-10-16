@@ -35,7 +35,7 @@ export const siteConfig = {
 
     twitter: {
       title: "Twitter",
-      href: "https://x.com/yaz2098751",
+      href: "https://x.com/yashraj_xyz",
       icon: Twitter,
     },
 
